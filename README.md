@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @kJAHsin
+- 👀 I’m interested in learning javascript in order to get a job
+- 🌱 I’m currently learning that python may not have been the place to start, but I still learned something
