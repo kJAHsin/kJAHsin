@@ -6,7 +6,7 @@ competencies include, but are not limited to:
 javascript (asyncronous, fetch),
 semantic html,
 css,
-css frameworks (tailwaind, bootstrap),
+css frameworks (tailwind, bootstrap),
 react,
 xml templating,
 php...
